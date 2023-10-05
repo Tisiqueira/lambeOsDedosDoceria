@@ -14,7 +14,7 @@ export function Register(){
           <span className="text-gray-700 tracking-[-0.5px]">
             Já Possui uma conta?
           </span>
-          <Link to="/register" className="tracking-[-0.5px] font-medium text-red-900">Fazer Login</Link>
+          <Link to="/" className="tracking-[-0.5px] font-medium text-red-900">Fazer Login</Link>
         </p>
       </header>
 
